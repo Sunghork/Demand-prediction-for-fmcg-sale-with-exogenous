@@ -1,4 +1,4 @@
-# demand-prediction
+# Demand-prediction-with-exogenous
 <<<<<<< HEAD
 =======
 sku1 is completed stationary
