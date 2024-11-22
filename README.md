@@ -1,7 +1,7 @@
 # Demand-prediction-with-exogenous
 
 ## Project road map
-![1](D:\Python\Github\Demand-prediction-for-fmcg-sale-with-exogenous\Report\image.png)
+![1](https://github.com/Sunghork/Demand-prediction-for-fmcg-sale-with-exogenous/blob/main/Report/image-1.png)
 
 ## Feature engineering to include the exogenous variable by using binary encoding
 ![1](D:\Python\Github\Demand-prediction-for-fmcg-sale-with-exogenous\Report\image-1.png)
