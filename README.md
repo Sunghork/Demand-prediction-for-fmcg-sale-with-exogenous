@@ -1,5 +1,9 @@
 # Demand-prediction-with-exogenous
-
+Dataset        |   % Split Days |   count 
+------------------------------------------
+Training Set   |       70%      |   1277 
+Validation Set |       15%      |   274 
+Test Set       |       15%      |   274
 ## Project road map
 ![1](https://github.com/Sunghork/Demand-prediction-for-fmcg-sale-with-exogenous/blob/main/Report/image.png)
 
@@ -16,4 +20,5 @@
 ![1](https://github.com/Sunghork/Demand-prediction-for-fmcg-sale-with-exogenous/blob/main/Report/image-4.png)
 
 ## Result of TFT model
+TFT model with exogenous variable illustrate the less error magin with the ability to capture the spike in the demand sales better with 12.7%(Std +/- 0.3)
 ![1](https://github.com/Sunghork/Demand-prediction-for-fmcg-sale-with-exogenous/blob/main/Report/image-5.png)
