@@ -2,8 +2,11 @@
 Dataset        |   % Split Days |   count 
 ------------------------------------------
 Training Set   |       70%      |   1277 
+-
 Validation Set |       15%      |   274 
+-
 Test Set       |       15%      |   274
+-
 ## Project road map
 ![1](https://github.com/Sunghork/Demand-prediction-for-fmcg-sale-with-exogenous/blob/main/Report/image.png)
 
